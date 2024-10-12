@@ -432,8 +432,6 @@ def future_exiration(year, month):
     return today.astimezone(datetime.UTC)
 
 
-
-
 ''' Timezones
 
 "Africa/Abidjan",
