@@ -18,7 +18,7 @@ Thank you for exploring **kcadley/public**! This project exposes a number of too
 - **contracts** - Prices FX futures and options, to include Greeks & IV
 - **daycount** - Implements various interest rate / trading daycount conventions
 - **dxlink** - Retrieves live & historic market data from CME
-- **fastoanda** - Supports trade execution against Oanda brokerage accounts. This is a streamlined version of my PyPi release (https://pypi.org/project/easyoanda/), which might be worth checking out in tandum - the PyPi link provides a full how-to guide for the module and couple of tips/tricks on production ready execution.
+- **fastoanda** - Supports trade execution against Oanda brokerage accounts. This is a streamlined version of my PyPi release (https://pypi.org/project/easyoanda/), which might be worth checking out in tandum - the PyPi link provides a full how-to guide for the module and couple of tips/tricks on production ready execution
 - **macro** - Provides access to FRED, ECB, EUROSTAT, BIS, and YahooFinance databases
 - **markethours** - Evaluates global market hours, determines unknown options and futures settlement / expirations dates
 - **oalink** - Retrieves live & historic market data for FX currencies (spot)
