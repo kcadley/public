@@ -491,6 +491,15 @@ class CurrencyFuture(BaseInstrument):
     
     A futures contract on a spot-traded currency pair.
 
+    *note*  "The theoretical differences between forward and futures prices for 
+    contracts which last only a few months are, in most circumstances,
+    sufficiently small to be ignored... there are a number of factors, not 
+    reflected in theoretical models, that may cause forward and futures prices 
+    to be different... despite all these points, in most circumstances, it is 
+    reasonable to assume that forward and futures prices are the same."
+    - pg. 57, John Hull, "Options, Futures, and Other Derivative Securities, 
+    2nd Ed."
+
 
     Attributes
     ----------
