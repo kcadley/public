@@ -500,6 +500,9 @@ class CurrencyFuture(BaseInstrument):
     - pg. 57, John Hull, "Options, Futures, and Other Derivative Securities, 
     2nd Ed."
 
+    Currency futures are priced via the classic forward equation: 
+    F = S * e^((r - q)(T-t))
+
 
     Attributes
     ----------
