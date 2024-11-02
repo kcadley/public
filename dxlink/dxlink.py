@@ -163,7 +163,7 @@ class DXLink():
     ----------
     `cme` : CMEFX
         An object used to determine if CME is actively trading currency 
-        derivatives. Dictates whethe live or last stream quotes should be used.
+        derivatives. Dictates whether live or last stream quotes should be used.
 
     Methods
     -------
